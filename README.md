@@ -1,11 +1,11 @@
-# 📊 [Project Title Here]
+# 📊 [cs5661-dsproject-GANbirdsImages]
 > Example:  
 > **Early Skin Cancer Detection: Bringing Dermatology to Everyone)**
 
 ## Project Description (Add the Big Idea)
 
 > Example:  
-> AI-driven smartphone-based image quality  skin cancer detection can democratize early diagnosis, improving global healthcare accessibility and patient outcomes.
+> This project implements a Generative Adversarial Network to mimic Bird images that are defined in training set. The generator attempts to create synthetic data that is indistinguishable from real data, while the discriminator tries to identify the difference between real and fake data & this involves training two neural networks, G & D,
 
 .
 
