@@ -12,7 +12,7 @@ By leveraging advanced image generation techniques such as DCGANs or cGANS, we a
 ## 📂 Repository Structure
 - `data/`: Empty, data will be generated locally when you run the final notebook
 - `notebooks/`: Jupyter Notebooks for data validation and analysis
-- `src/`: Preprocessing or helper scripts
+- `src/`: Final models and analysis
 - `data_card.md`: Dataset documentation ([Google Data Card](https://github.com/PAIR-code/datacardsplaybook/blob/main/templates/DataCardsExtendedTemplate.md))
 - `README.md`: This file
 
