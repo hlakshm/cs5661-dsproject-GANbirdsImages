@@ -34,29 +34,36 @@ in creating the Data Card.) -->
 <!-- scope: telescope -->
 <!-- info: Provide the names of the institution or organization responsible
 for publishing the dataset: -->
-Organization Name
+Harish Lakshman
+
+Anthony Lee
+
+Daniel Gallegos
+
+Rizwan Islam
+
+Kanchon Bishnu
+
+Neelam Patidar
+
+Yug Kalubhai patel
+
+Sai Alekhya
 
 #### Industry Type(s)
 <!-- scope: periscope -->
 <!-- info: Select **all applicable** industry types to which the publishing
 organizations belong: -->
-- Corporate - Tech
-- Corporate - Non-Tech (please specify)
 - Academic - Tech
-- Academic - Non-Tech (please specify)
-- Not-for-profit - Tech
-- Not-for-profit - Non-Tech (please specify)
-- Individual (please specify)
-- Others (please specify)
+
 
 #### Contact Detail(s)
 <!-- scope: microscope -->
 <!-- info: Provide publisher contact details: -->
-- **Publishing POC:** Provide the name for a POC for this dataset's publishers
-- **Affiliation:** Provide the POC's institutional affiliation
-- **Contact:** Provide the POC's contact details
-- **Mailing List:** Provide a mailing list if available
-- **Website:** Provide a website for the dataset if available
+- **Publishing POC: Listed Above** 
+- **Affiliation: California State University Los Angeles** 
+- **Contact: anthlee494@gmail.com** 
+
 
 ### Dataset Owners
 #### Team(s)
@@ -67,11 +74,9 @@ Name of Group or Team
 #### Contact Detail(s)
 <!-- scope: periscope -->
 <!-- info: Provide pathways to contact dataset owners: -->
-- **Dataset Owner(s):** Provide the names of the dataset owners
-- **Affiliation:** Provide the affiliation of the dataset owners
-- **Contact:** Provide the email of the dataset owner
-- **Group Email:** Provide a link to the mailing-list@server.com for the dataset owner team
-- **Website:** Provide a link to the website for the dataset owner team
+- **Dataset Owner(s): Vishal Kundar** 
+- **Affiliation: CMR Institute Of Technology** 
+- **Contact: vishalkundar on kaggle** 
 
 #### Author(s)
 <!-- scope: microscope -->
