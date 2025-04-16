@@ -5,7 +5,7 @@
 
 By leveraging advanced image generation techniques such as DCGANs or cGANS, we aim to create synthetic bird images for various applications such as to support wildlife conservation efforts, enrich creative projects, and making species identification more accessible and enhancing the quality of synthetic data.
 
-.
+
 
 ---
 
