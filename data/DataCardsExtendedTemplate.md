@@ -66,10 +66,7 @@ organizations belong: -->
 
 
 ### Dataset Owners
-#### Team(s)
-<!-- scope: telescope -->
-<!-- info: Provide the names of the groups or team(s) that own the dataset: -->
-Name of Group or Team
+
 
 #### Contact Detail(s)
 <!-- scope: periscope -->
@@ -77,41 +74,6 @@ Name of Group or Team
 - **Dataset Owner(s): Vishal Kundar** 
 - **Affiliation: CMR Institute Of Technology** 
 - **Contact: vishalkundar on kaggle** 
-
-#### Author(s)
-<!-- scope: microscope -->
-<!-- info: Provide the details of all authors associated with the dataset:
-
-(Usage Note: Provide the affiliation and year if different from publishing
-institutions or multiple affiliations.) -->
-- Name, Title, Affiliation, YYYY
-- Name, Title, Affiliation, YYYY
-- Name, Title, Affiliation, YYYY
-- Name, Title, Affiliation, YYYY
-
-### Funding Sources
-#### Institution(s)
-<!-- scope: telescope -->
-<!-- info: Provide the names of the funding institution(s): -->
-- Name of Institution
-- Name of Institution
-- Name of Institution
-
-#### Funding or Grant Summary(ies)
-<!-- scope: periscope -->
-<!-- width: full -->
-<!-- info: Provide a short summary of programs or projects that may have funded
-the creation, collection, or curation of the dataset.
-
-Use additional notes to capture any other relevant information or
-considerations. -->
-*For example, Institution 1 and institution 2 jointly funded this dataset as a
-part of the XYZ data program, funded by XYZ grant awarded by institution 3 for
-the years YYYY-YYYY.*
-
-Summarize here. Link to documents if available.
-
-**Additional Notes:** Add here
 
 ## Dataset Overview
 #### Data Subject(s)
