@@ -12,8 +12,6 @@ The dataset is publicly available at https://www.kaggle.com/datasets/vishalkunda
 in creating the Data Card.) -->
 <!-- width: half -->
 - **Vishal Kundar** (Owner / Contributor / Manager)
-- **Name, Team:** (Owner / Contributor / Manager)
-- **Name, Team:** (Owner / Contributor / Manager)
 
 ## Authorship
 ### Publishers
