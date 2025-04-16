@@ -11,7 +11,22 @@ The dataset is publicly available at https://www.kaggle.com/datasets/vishalkunda
 (Usage Note: Select the most appropriate choice to describe the author's role
 in creating the Data Card.) -->
 <!-- width: half -->
-- **Vishal Kundar** (Owner / Contributor / Manager)
+- **Harish Lakshman** (Owner / Contributor / Manager)
+
+- **Anthony Lee** (Owner / Contributor / Manager)
+
+- **Daniel Gallegos** (Owner / Contributor / Manager)
+
+- **Rizwan Islam** (Owner / Contributor / Manager)
+
+- **Kanchon Bishnu** (Owner / Contributor / Manager)
+
+- **Neelam Patidar** (Owner / Contributor / Manager)
+
+- **Yug Kalubhai patel** (Owner / Contributor / Manager)
+
+- **Sai Alekhya** (Owner / Contributor / Manager)
+
 
 ## Authorship
 ### Publishers
