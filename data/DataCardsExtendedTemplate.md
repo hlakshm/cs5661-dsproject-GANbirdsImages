@@ -1,22 +1,17 @@
 # Dataset Name (Acronym)
-Write a short summary describing your dataset (limit
-200 words). Include information about the content
-and topic of the data, sources and motivations for the
-dataset, benefits and the problems or use cases it is
-suitable for.
 We will be working with a preprocessed dataset of Caltech-UCSD Birds from 2000-2011. The dataset. The dataset contains high and low dimensional pictures of birds, along with pre-trained text embeddings for training text-to-image synthesis. The data contains images in pickle format of 64x64x3 birds, and 256x256x3 birds. We also have pre trained test embeddings designed to encode descriptive captions, providing conditional inputs for text-to-image synthesi models. This dataset has a variety of birds from different species. The pictures also vary in color, angle, and environment. This will be great for seeing if our model has any issues with mode collapse. The images come with no metadata, meaning we won't have any privacy concerns with it linking to any entity. Overall, we have a simple yet effective dataset in which our model will be trained on.
 #### Dataset Link
 <!-- info: Provide a link to the dataset: -->
 <!-- width: half -->
 Dataset Link
-
+The dataset is publicly available at https://www.kaggle.com/datasets/vishalkundar/gandata20/dataLinks to an external site..
 #### Data Card Author(s)
 <!-- info: Select **one role per** Data Card Author:
 
 (Usage Note: Select the most appropriate choice to describe the author's role
 in creating the Data Card.) -->
 <!-- width: half -->
-- **Name, Team:** (Owner / Contributor / Manager)
+- **Vishal Kundar** (Owner / Contributor / Manager)
 - **Name, Team:** (Owner / Contributor / Manager)
 - **Name, Team:** (Owner / Contributor / Manager)
 
