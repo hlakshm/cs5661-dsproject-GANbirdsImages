@@ -1,10 +1,9 @@
-# 📊 [GAN Bird Images]
+# 📊 GAN Bird Images
 
 
-## Project Description (Add the Big Idea)
+## Project Description 
 
-> Example:  
-> This project implements a Generative Adversarial Network to mimic Bird images that are defined in training set. The generator attempts to create synthetic data that is indistinguishable from real data, while the discriminator tries to identify the difference between real and fake data & this involves training two neural networks, G & D,
+By leveraging advanced image generation techniques such as DCGANs or cGANS, we aim to create synthetic bird images for various applications such as to support wildlife conservation efforts, enrich creative projects, and making species identification more accessible and enhancing the quality of synthetic data.
 
 .
 
@@ -23,7 +22,7 @@
 
 ### 🔧 Requirements
 - Python 3.7 or higher  
-- All dependencies listed in `requirements.txt`
+- Pytorch
 
 ### 📦 Setup Instructions
 
@@ -53,5 +52,5 @@ We want to thank the following individuals who have contributed to this project:
 
 | Name | GitHub Username |
 |---|---|
-| Jesus A. Beltran | [3eltran23](https://github.com/3eltran23) |
+| Anthony Lee | [anthonylee9](https://github.com/anthonylee9) |
 | Collaborator Name 2 (optional) | [Collaborator Username 2](https://github.com/CollaboratorUsername2) (optional) |
