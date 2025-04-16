@@ -1,6 +1,5 @@
-# 📊 [cs5661-dsproject-GANbirdsImages]
-> Example:  
-> **Early Skin Cancer Detection: Bringing Dermatology to Everyone)**
+# 📊 [GAN Bird Images]
+
 
 ## Project Description (Add the Big Idea)
 
