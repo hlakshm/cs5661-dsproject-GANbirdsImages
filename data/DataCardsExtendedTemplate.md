@@ -164,7 +164,7 @@ addressed.
 <!-- scope: periscope -->
 <!-- info: Provide a list of key domains of application that the dataset has
 been designed for:<br><br>(Usage Note: Use comma-separated keywords.) -->
-For example: `Machine Learning`, `Neural Networks`, `Image Generation`.
+`Machine Learning`, `Neural Networks`, `Image Generation`.
 
 
 
@@ -174,7 +174,7 @@ For example: `Machine Learning`, `Neural Networks`, `Image Generation`.
 
 (Usage Note: use this to describe the problem space and corresponding
 motivations for the dataset.) -->
-For example:
+
 
 - The expected outcome of this project is a model that can generate high quality and diverse synthetic images of birds. By generating synthetic bird images, we can contribute to enhancing datasets for species identification, create realistic visuals for media, etc. A potential challenge is the instability of GAN training and the computational resources required, which may need us to look into a pre-trained model.
 
