@@ -164,9 +164,9 @@ addressed.
 <!-- scope: periscope -->
 <!-- info: Provide a list of key domains of application that the dataset has
 been designed for:<br><br>(Usage Note: Use comma-separated keywords.) -->
-For example: `Machine Learning`, `Computer Vision`, `Object Detection`.
+For example: `Machine Learning`, `Neural Networks`, `Image Generation`.
 
-`keyword`, `keyword`, `keyword`
+
 
 #### Motivating Factor(s)
 <!-- scope: microscope -->
