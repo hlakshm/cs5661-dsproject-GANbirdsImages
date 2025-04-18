@@ -1,4 +1,4 @@
-# Dataset Name (Acronym)
+![image](https://github.com/user-attachments/assets/ab717886-1b96-4aad-a7ef-f0c9054b94cf)![image](https://github.com/user-attachments/assets/2119468f-9c73-4226-9127-70a4cba4faa3)# Dataset Name (Acronym)
 We will be working with a preprocessed dataset of Caltech-UCSD Birds from 2000-2011. The dataset. The dataset contains high and low dimensional pictures of birds, along with pre-trained text embeddings for training text-to-image synthesis. The data contains images in pickle format of 64x64x3 birds, and 256x256x3 birds. We also have pre trained test embeddings designed to encode descriptive captions, providing conditional inputs for text-to-image synthesi models. This dataset has a variety of birds from different species. The pictures also vary in color, angle, and environment. This will be great for seeing if our model has any issues with mode collapse. The images come with no metadata, meaning we won't have any privacy concerns with it linking to any entity. Overall, we have a simple yet effective dataset in which our model will be trained on.
 #### Dataset Link
 <!-- info: Provide a link to the dataset: -->
@@ -79,14 +79,8 @@ organizations belong: -->
 #### Data Subject(s)
 <!-- scope: telescope -->
 <!-- info: Select ***all applicable**** subjects contained the dataset: -->
-- Sensitive Data about people
-- Non-Sensitive Data about people
-- Data about natural phenomena
-- Data about places and objects
-- Synthetically generated data
-- Data about systems or products and their behaviors
-- Unknown
-- Others (Please specify)
+- Data: Bird Images
+
 
 #### Dataset Snapshot
 <!-- scope: periscope -->
@@ -95,26 +89,13 @@ to include relevant information, considerations, and links to table(s) with
 more detailed breakdowns.) -->
 Category | Data
 --- | ---
-Size of Dataset | 123456 MB
-Number of Instances | 123456
-Number of Fields | 123456
-Labeled Classes | 123456
-Number of Labels | 123456789
-Average Labeles Per Instance | 123456
-Algorithmic Labels | 123456789
-Human Labels | 123456789
-Other Characteristics | 123456
+Size of Dataset | 8855
+Number of Instances | 8855
+Number of Fields | 3
+Labeled Classes | 8855
+Number of Labels | 200
 
-**Above:** Provide a caption for the above table of visualization.
-
-**Additional Notes:** Add here.
-
-#### Content Description
-<!-- scope: microscope -->
-<!-- info: Provide a short description of the content in a data point: -->
-Summarize here. Include links if available.
-
-**Additional Notes:** Add here.
+**Above:** 8855 Bird Images with embeddings, not sure if embeddings obtainable yet
 
 #### Descriptive Statistics
 <!-- width: full -->
@@ -126,205 +107,37 @@ considerations.
 Usage Note: Some statistics will be relevant for numeric data, for not for
 strings. -->
 
-Statistic | Field Name | Field Name | Field Name | Field Name | Field Name | Field Name
---- | --- | --- | --- | --- | --- | ---
-count |
-mean |
-std |
-min |
-25% |
-50% |
-75% |
-max |
-mode |
 
-**Above:** Provide a caption for the above table or visualization.
-
-**Additional Notes:** Add here.
 
 ### Sensitivity of Data
 #### Sensitivity Type(s)
 <!-- scope: telescope -->
 <!-- info: Select ***all applicable*** data types present in the dataset: -->
-- User Content
-- User Metadata
-- User Activity Data
-- Identifiable Data
-- S/PII
-- Business Data
-- Employee Data
-- Pseudonymous Data
+
 - Anonymous Data
-- Health Data
-- Children’s Data
-- None
-- Others (Please specify)
-
-#### Field(s) with Sensitive Data
-<!-- scope: periscope -->
-<!-- info: List fields in the dataset that contain S/PII, and specify if their
-collection was intentional or unintentional.
-
-Use additional notes to capture any other relevant information or
-considerations. -->
-**Intentional Collected Sensitive Data**
-
-(S/PII were collected as a part of the
-dataset creation process.)
-
-Field Name | Description
---- | ---
-Field Name | Type of S/PII
-Field Name | Type of S/PII
-Field Name | Type of S/PII
-
-**Unintentionally Collected Sensitive Data**
-
-(S/PII were not explicitly collected as a
-part of the dataset creation process but
-can be inferred using additional
-methods.)
-
-Field Name | Description
---- | ---
-Field Name | Type of S/PII
-Field Name | Type of S/PII
-Field Name | Type of S/PII
-
-**Additional Notes:** Add here
-
-#### Security and Privacy Handling
-<!-- scope: microscope -->
-<!-- info: Summarize the measures or steps to handle sensitive data in this
-dataset.
-
-Use additional notes to capture any other relevant information or
-considerations. -->
-
-Summarize here. Include links and metrics where applicable.
-
-**Method:** description
-
-**Method:** description
-
-**Method:** description
-
-**Additional Notes:** Add here
-
-#### Risk Type(s)
-<!-- scope: telescope -->
-<!-- info: Select **all applicable** risk types presenting from the
-dataset: -->
-- Direct Risk
-- Indirect Risk
-- Residual Risk
-- No Known Risks
-- Others (Please Specify)
-
-#### Supplemental Link(s)
-<!-- scope: periscope -->
-<!-- info: Provide link(s) for documentation pertaining to sensitive data in
-the dataset: -->
-**Link Name or Document Type:** link
-
-**Link Name or Document Type:** link
-
-**Link Name or Document Type:** link
-
-#### Risk(s) and Mitigation(s)
-<!-- scope: microscope -->
-<!-- info: Summarize the steps taken to identify and mitigate risks from PII
-or sensitive information.
-
-Use additional notes to capture any other relevant information or
-considerations. -->
-Summarize here. Include links and metrics where applicable.
-
-**Risk type:** Description + Mitigations
-
-**Risk type:** Description + Mitigations
-
-**Risk type:** Description + Mitigations
-
-**Additional Notes:** Add here
 
 ### Dataset Version and Maintenance
 #### Maintenance Status
 <!-- scope: telescope -->
 <!-- info: Select **one:** -->
-**Regularly Updated** - New versions of the dataset
-have been or will continue to be
-made available.
 
-**Actively Maintained** - No new versions will be made
-available, but this dataset will
-be actively maintained,
-including but not limited to
-updates to the data.
 
 **Limited Maintenance** - The data will not be updated,
 but any technical issues will be
 addressed.
 
-**Deprecated** - This dataset is obsolete or is
-no longer being maintained.
 
 #### Version Details
 <!-- scope: periscope -->
 <!-- info: Provide details about **this** version of the dataset: -->
 **Current Version:** 1.0
 
-**Last Updated:** MM/YYYY
+**Last Updated:** 04/2025
 
-**Release Date:** MM/YYYY
+**Release Date:** 04/2025
 
-#### Maintenance Plan
-<!-- scope: microscope -->
-<!-- info: Summarize the maintenance plan for the dataset:
 
-Use additional notes to capture any other relevant information or
-considerations. -->
-Summarize here. Include links and metrics where applicable.
 
-**Versioning:** Summarize here. Include information about criteria for
-versioning the dataset.
-
-**Updates:** Summarize here. Include information about criteria for refreshing
-or updating the dataset.
-
-**Errors:** Summarize here. Include information about criteria for refreshing
-or updating the dataset.
-
-**Feedback:** Summarize here. Include information about criteria for refreshing
-or updating the dataset.
-
-**Additional Notes:** Add here
-
-#### Next Planned Update(s)
-<!-- scope: periscope -->
-<!-- info: Provide details about the next planned update: -->
-**Version affected:** 1.0
-
-**Next data update:** MM/YYYY
-
-**Next version:** 1.1
-
-**Next version update:** MM/YYYY
-
-#### Expected Change(s)
-<!-- scope: microscope -->
-<!-- info: Summarize the updates to the dataset and/or data that are expected
-on the next update.
-
-Use additional notes to capture any other relevant information or
-considerations. -->
-**Updates to Data:** Summarize here. Include links, charts, and visualizations
-as appropriate.
-
-**Updates to Dataset:** Summarize here. Include links, charts, and
-visualizations as appropriate.
-
-**Additional Notes:** Add here
 
 ## Example of Data Points
 #### Primary Data Modality
@@ -332,101 +145,20 @@ visualizations as appropriate.
 <!-- info: Select **one**: -->
 - Image Data
 - Text Data
-- Tabular Data
-- Audio Data
-- Video Data
-- Time Series
-- Graph Data
-- Geospatial Data
-- Multimodel (please specify)
-- Unknown
-- Others (please specify)
 
 #### Sampling of Data Points
 <!-- scope: periscope -->
 <!-- info: Provide link(s) to data points or exploratory demos: -->
-- Demo Link
-- Typical Data Point Link
-- Outlier Data Point Link
-- Other Data Point Link
-- Other Data Point Link
+![image](https://github.com/user-attachments/assets/fc7809d5-3654-46e6-9129-7fc486c6a7b9)
 
-#### Data Fields
-<!-- scope: microscope -->
-<!-- info: List the fields in data points and their descriptions.
 
-(Usage Note: Describe each field in a data point. Optionally use this to show
-the example.) -->
-
-Field Name | Field Value | Description
---- | --- | ---
-Field Name | Field Value | Description
-Field Name | Field Value | Description
-Field Name | Field Value | Description
-
-**Above:** Provide a caption for the above table or visualization if used.
-
-**Additional Notes:** Add here
-
-#### Typical Data Point
-<!-- width: half -->
-<!-- info: Provide an example of a typical data point and describe what makes
-it typical.
-
-**Use additional notes to capture any other relevant information or
-considerations.** -->
-Summarize here. Include any criteria for typicality of data point.
-
-```
-{'q_id': '8houtx',
-  'title': 'Why does water heated to room temperature feel colder than the air around it?',
-  'selftext': '',
-  'document': '',
-  'subreddit': 'explainlikeimfive',
-  'answers': {'a_id': ['dylcnfk', 'dylcj49'],
-  'text': ["Water transfers heat more efficiently than air. When something feels cold it's because heat is being transferred from your skin to whatever you're touching. ... Get out of the water and have a breeze blow on you while you're wet, all of the water starts evaporating, pulling even more heat from you."],
-  'score': [5, 2]},
-  'title_urls': {'url': []},
-  'selftext_urls': {'url': []},
-  'answers_urls': {'url': []}}
-```
-
-**Additional Notes:** Add here
-
-#### Atypical Data Point
-<!-- width: half -->
-<!-- info: Provide an example of an outlier data point and describe what makes
-it atypical.
-
-**Use additional notes to capture any other relevant information or
-considerations.** -->
-Summarize here. Include any criteria for atypicality of data point.
-
-```
-{'q_id': '8houtx',
-  'title': 'Why does water heated to room temperature feel colder than the air around it?',
-  'selftext': '',
-  'document': '',
-  'subreddit': 'explainlikeimfive',
-  'answers': {'a_id': ['dylcnfk', 'dylcj49'],
-  'text': ["Water transfers heat more efficiently than air. When something feels cold it's because heat is being transferred from your skin to whatever you're touching. ... Get out of the water and have a breeze blow on you while you're wet, all of the water starts evaporating, pulling even more heat from you."],
-  'score': [5, 2]},
-  'title_urls': {'url': []},
-  'selftext_urls': {'url': []},
-  'answers_urls': {'url': []}}
-```
-
-**Additional Notes:** Add here
 
 ## Motivations & Intentions
 ### Motivations
 #### Purpose(s)
 <!-- scope: telescope -->
 <!-- info: Select **one**: -->
-- Monitoring
-- Research
-- Production
-- Others (please specify)
+- Building GAN model
 
 #### Domain(s) of Application
 <!-- scope: periscope -->
