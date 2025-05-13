@@ -47,18 +47,7 @@ The expected outcome of this project is a model that can generate high quality a
    ```bash
    git clone <your-repo-url>
    cd <your-repo-folder>
-2. **Create and activate a virtual environment**
 
-   ```bash
-   # pip install virtualenv (if you don't have virtualevn installed)
-   virtualenv venv
-   source venv/bin/activate
-   ```
-3. **Install project dependencies or libraries needed to run this project.**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
@@ -66,8 +55,6 @@ The expected outcome of this project is a model that can generate high quality a
 
 We want to thank the following individuals who have contributed to this project:
 
-
 | Name | GitHub Username |
 |---|---|
 | Anthony Lee | [anthonylee9](https://github.com/anthonylee9) |
-| Collaborator Name 2 (optional) | [Collaborator Username 2](https://github.com/CollaboratorUsername2) (optional) |
